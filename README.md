@@ -1,2 +1,2 @@
 # ascfmp
-FMP snipers
+FMP snippets
