@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2025-08-09 12:56:17.681 +0530	fm-blank.fmp12	0	*** Started consistency check of improperly closed file, total of 55 block(s) to check
+2025-08-09 12:56:17.681 +0530	fm-blank.fmp12	0	Reset maximum block sequence number to 2315
+2025-08-09 12:56:17.681 +0530	fm-blank.fmp12	0	*** Completed consistency check, checked 55 block(s)

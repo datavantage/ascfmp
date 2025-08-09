@@ -1,0 +1,44 @@
+﻿Timestamp	Filename	Error	Message
+2025-08-09 12:56:36.201 +0530	fm-blank.fmp12	0	Import operations started
+2025-08-09 12:56:36.201 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:36.202 +0530	Table	0	Field “F1” imported as “F1 2” since a field named “F1” already exists.
+2025-08-09 12:56:36.203 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:36.203 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:36.467 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:36.468 +0530	Table	0	Field “F1” imported as “F1 3” since a field named “F1” already exists.
+2025-08-09 12:56:36.468 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:36.469 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:36.617 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:36.618 +0530	Table	0	Field “F1” imported as “F1 4” since a field named “F1” already exists.
+2025-08-09 12:56:36.618 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:36.619 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:36.746 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:36.747 +0530	Table	0	Field “F1” imported as “F1 5” since a field named “F1” already exists.
+2025-08-09 12:56:36.747 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:36.747 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:36.894 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:36.895 +0530	Table	0	Field “F1” imported as “F1 6” since a field named “F1” already exists.
+2025-08-09 12:56:36.896 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:36.896 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:37.034 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:37.036 +0530	Table	0	Field “F1” imported as “F1 7” since a field named “F1” already exists.
+2025-08-09 12:56:37.036 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:37.036 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:37.193 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:37.194 +0530	Table	0	Field “F1” imported as “F1 8” since a field named “F1” already exists.
+2025-08-09 12:56:37.195 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:37.195 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:37.372 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:37.373 +0530	Table	0	Field “F1” imported as “F1 9” since a field named “F1” already exists.
+2025-08-09 12:56:37.374 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:37.374 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:37.532 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:37.533 +0530	Table	0	Field “F1” imported as “F1 10” since a field named “F1” already exists.
+2025-08-09 12:56:37.534 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:37.534 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:56:37.764 +0530	fm-blank.fmp12	0	Import of fields from clipboard started
+2025-08-09 12:56:37.766 +0530	Table	0	Field “F1” imported as “F1 11” since a field named “F1” already exists.
+2025-08-09 12:56:37.767 +0530	Table	0	fields imported : 1
+2025-08-09 12:56:37.767 +0530	fm-blank.fmp12	0	Import completed
+2025-08-09 12:57:32.189 +0530	fm-blank.fmp12	0	Import operations committed
+2025-08-09 12:57:32.190 +0530	fm-blank.fmp12	0	==================================================================
